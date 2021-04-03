@@ -1,4 +1,4 @@
-# catacomspp project, A Fork and Community Dev project of the Catacylsm Preservation Project by Trinitycore.
+# catacomspp project, A Fork and Community Single Player Project Dev project of the Catacylsm Preservation Project by Trinitycore.
 
 # ![logo](https://community.trinitycore.org/public/style_images/1_trinitycore.png) TrinityCore
 
